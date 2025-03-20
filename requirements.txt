@@ -6,3 +6,4 @@ scikit_learn
 Unidecode
 uvicorn
 xgboost
+jinja2
